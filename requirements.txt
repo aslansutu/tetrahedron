@@ -1,0 +1,4 @@
+numpy==1.26.4
+progressbar2==4.4.2
+python-utils==3.8.2
+typing_extensions==4.12.1
